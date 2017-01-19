@@ -34,3 +34,4 @@ if __name__ == "__main__":
     path = '.'
     scan_folder(path)
     move_folders(path)
+    
