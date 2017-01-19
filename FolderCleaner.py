@@ -1,4 +1,4 @@
-#!/bin/python3.6
+#!/bin/python
 import os
 
 min_size = 10
@@ -34,4 +34,3 @@ if __name__ == "__main__":
     path = '.'
     scan_folder(path)
     move_folders(path)
-    
